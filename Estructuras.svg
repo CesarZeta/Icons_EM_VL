@@ -1,23 +1,8 @@
 <svg width="100" height="100" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g clip-path="url(#clip0_177_964)">
-<rect width="100" height="100" fill="white"/>
-<mask id="mask0_177_964" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="100" height="100">
-<rect width="100" height="100" fill="#D9D9D9"/>
-</mask>
-<g mask="url(#mask0_177_964)">
-<path d="M50 91.6667C38.8195 82.1528 30.4688 73.316 24.9479 65.1563C19.4271 56.9965 16.6667 49.4445 16.6667 42.5C16.6667 32.0833 20.0174 23.7847 26.7188 17.6042C33.4202 11.4236 41.1806 8.33334 50 8.33334C58.8195 8.33334 66.5799 11.4236 73.2813 17.6042C79.9827 23.7847 83.3333 32.0833 83.3333 42.5C83.3333 49.4445 80.5729 56.9965 75.0521 65.1563C69.5313 73.316 61.1806 82.1528 50 91.6667Z" fill="#1C1B1F"/>
-</g>
-<circle cx="50" cy="41" r="24" fill="white"/>
-<mask id="mask1_177_964" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="32" y="23" width="36" height="36">
-<rect x="32" y="23" width="36" height="36" fill="#D9D9D9"/>
-</mask>
-<g mask="url(#mask1_177_964)">
-<path d="M35 54.5V51.5H38V27.5H62V51.5H65V54.5H35ZM41 51.5H43.25V30.5H41V51.5ZM46.25 51.5H48.5V30.5H46.25V51.5ZM51.5 51.5H53.75V30.5H51.5V51.5ZM56.75 51.5H59V30.5H56.75V51.5Z" fill="#1C1B1F"/>
-</g>
-</g>
-<defs>
-<clipPath id="clip0_177_964">
-<rect width="100" height="100" fill="white"/>
-</clipPath>
-</defs>
+<path d="M50 90.8037L32.7666 53.3516C37.058 58.0109 43.1894 60.9131 50 60.9131C56.8247 60.9131 62.9663 57.9776 67.2588 53.293L50 90.8037ZM70.7979 45.6035L69.249 48.9668C65.3038 55.5293 58.1583 59.9131 50 59.9131C41.8846 59.9131 34.7714 55.6084 30.8135 49.1055L29.2021 45.6035H70.7979ZM50 14.5C62.4222 14.5 72.5 24.6623 72.5 37.207C72.5 39.797 72.0695 42.2851 71.2783 44.6035H28.7119C27.9272 42.2887 27.5 39.8016 27.5 37.207C27.5 24.6623 37.5778 14.5 50 14.5Z" fill="black" stroke="black"/>
+<rect x="20.75" y="54.75" width="58.5" height="1.5" fill="black" stroke="white" stroke-width="1.5"/>
+<rect x="36.75" y="6.75" width="1.5" height="46.5" fill="black" stroke="white" stroke-width="1.5"/>
+<rect x="59" y="42" width="2" height="11" fill="black" stroke="white" stroke-width="2"/>
+<rect x="47" y="26" width="27" height="17" rx="3" fill="black" stroke="white" stroke-width="2"/>
+<path d="M37.5 3C41.5891 3 45 6.5271 45 11C45 15.4729 41.5891 19 37.5 19C33.4109 19 30 15.4729 30 11C30 6.5271 33.4109 3 37.5 3Z" fill="black" stroke="white" stroke-width="2"/>
 </svg>

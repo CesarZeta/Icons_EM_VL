@@ -1,18 +1,11 @@
 <svg width="100" height="100" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g clip-path="url(#clip0_177_962)">
-<rect width="100" height="100" fill="white"/>
-<mask id="mask0_177_962" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="100" height="100">
-<rect width="100" height="100" fill="#D9D9D9"/>
+<path d="M50 90.8037L32.7666 53.3516C37.058 58.0109 43.1894 60.9131 50 60.9131C56.8247 60.9131 62.9663 57.9776 67.2588 53.293L50 90.8037ZM70.7979 45.6035L69.249 48.9668C65.3038 55.5293 58.1583 59.9131 50 59.9131C41.8846 59.9131 34.7714 55.6084 30.8135 49.1055L29.2021 45.6035H70.7979ZM50 14.5C62.4222 14.5 72.5 24.6623 72.5 37.207C72.5 39.797 72.0695 42.2851 71.2783 44.6035H28.7119C27.9272 42.2887 27.5 39.8016 27.5 37.207C27.5 24.6623 37.5778 14.5 50 14.5Z" fill="black" stroke="black"/>
+<mask id="mask0_177_962" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="19" y="-4" width="63" height="72">
+<rect x="20.3651" y="-3" width="60.2619" height="69.3182" fill="#D9D9D9" stroke="white" stroke-width="2"/>
 </mask>
 <g mask="url(#mask0_177_962)">
-<path d="M50 91.6667C38.8194 82.1528 30.4688 73.316 24.9479 65.1563C19.4271 56.9965 16.6667 49.4445 16.6667 42.5C16.6667 32.0833 20.0174 23.7847 26.7188 17.6042C33.4201 11.4236 41.1806 8.33334 50 8.33334C58.8194 8.33334 66.5799 11.4236 73.2813 17.6042C79.9826 23.7847 83.3333 32.0833 83.3333 42.5C83.3333 49.4445 80.5729 56.9965 75.0521 65.1563C69.5313 73.316 61.1806 82.1528 50 91.6667Z" fill="#1C1B1F"/>
-</g>
-<circle cx="50" cy="41" r="24" fill="white"/>
-<mask id="mask1_177_962" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="32" y="23" width="36" height="36">
-<rect x="32" y="23" width="36" height="36" fill="#D9D9D9"/>
-</mask>
-<g mask="url(#mask1_177_962)">
-<path d="M41 51.5H45.5V42.5H54.5V51.5H59V38L50 31.25L41 38V51.5ZM38 54.5V36.5L50 27.5L62 36.5V54.5H51.5V45.5H48.5V54.5H38Z" fill="#1C1B1F"/>
+<path d="M70.555 25.5455V52.6841H54.1283V38.3501H46.8636V52.6841H30.4369V25.5455L50.4955 11.8931L70.555 25.5455Z" fill="black" stroke="white" stroke-width="2"/>
 </g>
 </g>
 <defs>
